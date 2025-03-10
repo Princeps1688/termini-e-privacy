@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termini di Servizio - Postman Gmail Bot</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        h1 { color: #333; }
+        p { max-width: 600px; margin: 0 auto; }
+        a { color: #007bff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Termini di Servizio</h1>
+    <p>Utilizzando Postman Gmail Bot, accetti i seguenti termini e condizioni.</p>
+    <p><strong>Uso del Servizio:</strong> L'app è fornita "così com'è" senza garanzie esplicite o implicite.</p>
+    <p><strong>Limitazioni di Responsabilità:</strong> Non siamo responsabili per eventuali danni derivanti dall'uso dell'applicazione.</p>
+    <p><a href="index.html">Torna alla Home</a></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termini di Servizio - Postman Gmail Bot</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        h1 { color: #333; }
+        p { max-width: 600px; margin: 0 auto; }
+        a { color: #007bff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Termini di Servizio</h1>
+    <p>Utilizzando Postman Gmail Bot, accetti i seguenti termini e condizioni.</p>
+    <p><strong>Uso del Servizio:</strong> L'app è fornita "così com'è" senza garanzie esplicite o implicite.</p>
+    <p><strong>Limitazioni di Responsabilità:</strong> Non siamo responsabili per eventuali danni derivanti dall'uso dell'applicazione.</p>
+    <p><a href="index.html">Torna alla Home</a></p>
+</body>
+</html>
